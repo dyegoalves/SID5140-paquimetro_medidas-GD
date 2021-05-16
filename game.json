@@ -1,0 +1,253 @@
+{
+  "firstLayout": "",
+  "gdVersion": {
+    "build": 99,
+    "major": 4,
+    "minor": 0,
+    "revision": 0
+  },
+  "properties": {
+    "adaptGameResolutionAtRuntime": true,
+    "folderProject": true,
+    "orientation": "default",
+    "packageName": "com.example.gamename",
+    "projectUuid": "23dd7583-74f3-4e04-a9cf-98bd4a2e881e",
+    "scaleMode": "linear",
+    "sizeOnStartupMode": "adaptHeight",
+    "useExternalSourceFiles": false,
+    "version": "1.0.0",
+    "name": "paquimetro_medidas",
+    "author": "Dyego Alves",
+    "windowWidth": 1920,
+    "windowHeight": 1080,
+    "latestCompilationDirectory": "D:\\SCORMS\\SID5140-PROD-DID462\\AnimacoesProntas\\paquimetro_medidas",
+    "maxFPS": 60,
+    "minFPS": 60,
+    "verticalSync": false,
+    "platformSpecificAssets": {},
+    "loadingScreen": {
+      "showGDevelopSplash": false
+    },
+    "extensionProperties": [],
+    "extensions": [
+      {
+        "name": "BuiltinObject"
+      },
+      {
+        "name": "BuiltinAudio"
+      },
+      {
+        "name": "BuiltinVariables"
+      },
+      {
+        "name": "BuiltinTime"
+      },
+      {
+        "name": "BuiltinMouse"
+      },
+      {
+        "name": "BuiltinKeyboard"
+      },
+      {
+        "name": "BuiltinJoystick"
+      },
+      {
+        "name": "BuiltinCamera"
+      },
+      {
+        "name": "BuiltinWindow"
+      },
+      {
+        "name": "BuiltinFile"
+      },
+      {
+        "name": "BuiltinNetwork"
+      },
+      {
+        "name": "BuiltinScene"
+      },
+      {
+        "name": "BuiltinAdvanced"
+      },
+      {
+        "name": "Sprite"
+      },
+      {
+        "name": "BuiltinCommonInstructions"
+      },
+      {
+        "name": "BuiltinCommonConversions"
+      },
+      {
+        "name": "BuiltinStringInstructions"
+      },
+      {
+        "name": "BuiltinMathematicalTools"
+      },
+      {
+        "name": "BuiltinExternalLayouts"
+      }
+    ],
+    "platforms": [
+      {
+        "name": "GDevelop JS platform"
+      }
+    ],
+    "currentPlatform": "GDevelop JS platform"
+  },
+  "resources": {
+    "resources": [
+      {
+        "alwaysLoaded": false,
+        "file": "block-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "block-1.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "black-circle-medium-outline-md.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "black-circle-medium-outline-md.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "black-circle-medium-outline-md2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "black-circle-medium-outline-md2.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "fund12.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "fund12.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "pinotop1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pinotop1.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "pinoBot1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pinoBot1.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "pb13-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pb13-1.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "66.mp4",
+        "kind": "video",
+        "metadata": "",
+        "name": "66.mp4",
+        "userAdded": false
+      },
+      {
+        "file": "69.mp4",
+        "kind": "video",
+        "metadata": "",
+        "name": "69.mp4",
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "voltarCena.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "voltarCena.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "nanio1b-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "nanio1b-1.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "nanio1b-1-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "nanio1b-1-0.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "nanio1b-1-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "nanio1b-1-1.png",
+        "smoothed": true,
+        "userAdded": true
+      }
+    ],
+    "resourceFolders": []
+  },
+  "objects": [],
+  "objectsGroups": [],
+  "variables": [
+    {
+      "name": "clicou66",
+      "type": "boolean",
+      "value": false
+    },
+    {
+      "name": "clicou69",
+      "type": "boolean",
+      "value": false
+    }
+  ],
+  "layouts": [
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/layouts/paquimetro_medidas"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/layouts/video69"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/layouts/video66"
+    }
+  ],
+  "externalEvents": [],
+  "eventsFunctionsExtensions": [
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/eventsFunctionsExtensions/cursortype"
+    }
+  ],
+  "externalLayouts": [],
+  "externalSourceFiles": []
+}
